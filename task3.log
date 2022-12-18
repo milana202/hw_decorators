@@ -1,0 +1,4 @@
+Function: parse_page
+2022-12-18 18:07:45.360049
+Arguments: ('https://habr.com/ru/all/', ['лет', 'фото', 'web', 'python']){}
+Result: None
